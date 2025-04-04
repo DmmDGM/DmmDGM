@@ -1,16 +1,15 @@
-## Hi there 👋
+idk what to put here but it looks cool
 
-<!--
-**DmmDGM/DmmDGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i will think of smth to populate this page?
 
-Here are some ideas to get you started:
+go pew :333333
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+also i like js/ts
+
+no i dont program in python
+
+i like math, math is cool
+
+might major in cs, altho prob gonna be unemployeed
+
+anyway yuh thats it
